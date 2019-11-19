@@ -22,7 +22,7 @@
 
     <div class="top-margin flex-container">
       <div class="card card-height">
-        <div class="card-header">Comment</div>
+        <div class="card-header">chat</div>
 
         <div class="order-comment">
           <ul class="list-group list-group-flush">
